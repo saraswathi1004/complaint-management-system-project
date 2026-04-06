@@ -97,7 +97,7 @@ ADMIN_EMAIL = "iamsarawathi12@gmail.com"  # Change to admin's email address
 
 # Define valid areas
 VALID_ADDRESSES = [
-    "Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India","St.Peter’s Institute of Higher Education and Research,Avadi,, St Peter College Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India","Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India"
+    "Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India","St.Peter’s Institute of Higher Education and Research,Avadi, St Peter College Road, Avadi, Poonamallee, Thiruvallur, Tamil Nadu, 600054, India","Munusamy Salai, CMWSSB Division 128, Ward 128, Zone 10 Kodambakkam, Chennai Corporation, Chennai, Tamil Nadu, 600078, India"
 ]
 
 # Geocode all valid addresses to get their coordinates
